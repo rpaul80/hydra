@@ -1,0 +1,10 @@
+{
+  "violation-policy": [
+    {
+      "class": "stored-secrets",
+      "rules": {
+        "json-web-token": "alert"
+      }
+    }
+  ]
+}
